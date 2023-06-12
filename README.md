@@ -5,7 +5,7 @@ Application is made for web page for bank, which provides bank clients with fast
 
 The project is available on the link: https://esotemp.vse.cz/~bigc00/sp
 
-## Funkcionality
+## Funcionality
 
 - Creating a user account
 - Creating a bank account for concrete user
