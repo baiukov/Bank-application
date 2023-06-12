@@ -3,7 +3,7 @@
 
 Application is made for web page for bank, which provides bank clients with fast and convinient opportunity of using their acoounts and managing money in it, for example transactions between accounts and history of that transactions
 
-The project is available on the link: https://esotemp.vse.cz/~baia04/sp
+The project is available on the link: https://esotemp.vse.cz/~bigc00/sp
 
 ## Funkcionality
 
@@ -47,7 +47,7 @@ The project is available on the link: https://esotemp.vse.cz/~baia04/sp
 
 Aplikací je webová stránka pro banku Vanguard, která nabízí lidem možnost rychlého přístupu ke svým bankovním účtům a řízení peněz na těchto účtech, např. převody mezi účty a možnost se podívat na historii převodů
 
-Projekt je dostupen na odkazu: https://esotemp.vse.cz/~baia04/sp
+Projekt je dostupen na odkazu: https://esotemp.vse.cz/~bigc00/sp
 
 ## Funkcionalita
 
