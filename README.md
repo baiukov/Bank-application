@@ -34,10 +34,16 @@ Application is made for web page for bank, which provides bank clients with fast
 ## Database
 
 [Logickal model](https://cdn.discordapp.com/attachments/727912939444502538/1102282152068001885/image.png)
+
 [Fyzickal model](https://cdn.discordapp.com/attachments/727912939444502538/1102282286428344380/image.png)
 
 ## [Processual diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102278726206640298/image.png)
 ## [Sekvencial diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102273630399901916/image.png)
+
+
+
+
+
 
 
 
@@ -78,6 +84,7 @@ Aplikací bude webová stránka pro banku Vanguard, která nabízí lidem možno
 ## Database
 
 [Logický model](https://cdn.discordapp.com/attachments/727912939444502538/1102282152068001885/image.png)
+
 [Fyzický model](https://cdn.discordapp.com/attachments/727912939444502538/1102282286428344380/image.png)
 
 ## [Procesní diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102278726206640298/image.png)
