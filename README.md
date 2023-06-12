@@ -21,24 +21,17 @@ Application is made for web page for bank, which provides bank clients with fast
 - Database: MySQL
 - FrontEnd: HTML + CSS
 
-### Wireframe
-
-- [Main page](https://cdn.discordapp.com/attachments/727912939444502538/1099406402532946011/Main_page.png)
-- [Registration](https://cdn.discordapp.com/attachments/727912939444502538/1099406403086581780/Registration.png) [Login](https://cdn.discordapp.com/attachments/727912939444502538/1099406402130280488/Login.png)
-- [Home page](https://cdn.discordapp.com/attachments/727912939444502538/1099406401517924553/Home_page.png)
-- [Creating account](https://cdn.discordapp.com/attachments/727912939444502538/1099406402809778236/New_account.png)
-- [Payment](https://cdn.discordapp.com/attachments/727912939444502538/1099406403359223888/Send_money.png)
-- [Transaction History](https://cdn.discordapp.com/attachments/727912939444502538/1099406401173979196/History.png)
-- [Admin panel](https://cdn.discordapp.com/attachments/727912939444502538/1099406400905564382/Admin_panel.png)
+### Design
+[Clicable prototype](https://www.figma.com/proto/paOAo6OA9vKjHwwM5Rb5aE/Vanguard-bank?page-id=0%3A1&type=design&node-id=1-2&viewport=83%2C174%2C0.11&scaling=min-zoom&starting-point-node-id=1%3A2)
 
 ## Database
 
-[Logickal model](https://cdn.discordapp.com/attachments/727912939444502538/1102282152068001885/image.png)
+[Logickal model](https://prnt.sc/viTFMJxS1yP8)
 
-[Fyzickal model](https://cdn.discordapp.com/attachments/727912939444502538/1102282286428344380/image.png)
+[Physickal model](https://prnt.sc/4MBpe81PVgHF)
 
-## [Processual diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102278726206640298/image.png)
-## [Sekvencial diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102273630399901916/image.png)
+## [Processual diagram](https://prnt.sc/T6hKgJqMifws)
+## [Sekvencial diagram](https://prnt.sc/kI_EvmEBphvq)
 
 
 
@@ -50,7 +43,7 @@ Application is made for web page for bank, which provides bank clients with fast
 ### CZ:
 # Vanguard bank
 
-Aplikací bude webová stránka pro banku Vanguard, která nabízí lidem možnost rychlého přístupu ke svým bankovním účtům a řízení peněz na těchto účtech, např. převody mezi účty a možnost se podívat na historii převodů
+Aplikací je webová stránka pro banku Vanguard, která nabízí lidem možnost rychlého přístupu ke svým bankovním účtům a řízení peněz na těchto účtech, např. převody mezi účty a možnost se podívat na historii převodů
 
 ## Funkcionalita
 
@@ -71,21 +64,14 @@ Aplikací bude webová stránka pro banku Vanguard, která nabízí lidem možno
 - Database: MySQL
 - FrontEnd: HTML + CSS
 
-### Wireframe
-
-- [Hlavní stránka](https://cdn.discordapp.com/attachments/727912939444502538/1099406402532946011/Main_page.png)
-- [Registration](https://cdn.discordapp.com/attachments/727912939444502538/1099406403086581780/Registration.png) [Login](https://cdn.discordapp.com/attachments/727912939444502538/1099406402130280488/Login.png)
-- [Domovská stránka](https://cdn.discordapp.com/attachments/727912939444502538/1099406401517924553/Home_page.png)
-- [Vytvaření účtu](https://cdn.discordapp.com/attachments/727912939444502538/1099406402809778236/New_account.png)
-- [Převod peněz](https://cdn.discordapp.com/attachments/727912939444502538/1099406403359223888/Send_money.png)
-- [Historie transakcí](https://cdn.discordapp.com/attachments/727912939444502538/1099406401173979196/History.png)
-- [Admin panel](https://cdn.discordapp.com/attachments/727912939444502538/1099406400905564382/Admin_panel.png)
+### Design
+[Clicable prototype](https://www.figma.com/proto/paOAo6OA9vKjHwwM5Rb5aE/Vanguard-bank?page-id=0%3A1&type=design&node-id=1-2&viewport=83%2C174%2C0.11&scaling=min-zoom&starting-point-node-id=1%3A2)
 
 ## Database
 
-[Logický model](https://cdn.discordapp.com/attachments/727912939444502538/1102282152068001885/image.png)
+[Logický model](https://prnt.sc/viTFMJxS1yP8)
 
-[Fyzický model](https://cdn.discordapp.com/attachments/727912939444502538/1102282286428344380/image.png)
+[Fyzický model](https://prnt.sc/4MBpe81PVgHF)
 
-## [Procesní diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102278726206640298/image.png)
-## [Sekvenční diagram](https://cdn.discordapp.com/attachments/727912939444502538/1102273630399901916/image.png)
+## [Procesní diagram](https://prnt.sc/T6hKgJqMifws)
+## [Sekvenční diagram](https://prnt.sc/kI_EvmEBphvq)
