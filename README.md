@@ -33,7 +33,7 @@ The project is available on the link: https://esotemp.vse.cz/~bigc00/sp
 [Physickal model](https://prnt.sc/4MBpe81PVgHF)
 
 ## [Processual diagram](https://prnt.sc/T6hKgJqMifws)
-## [Sekvencial diagram](https://prnt.sc/kI_EvmEBphvq)
+## [Sequencial diagram](https://prnt.sc/kI_EvmEBphvq)
 
 
 
