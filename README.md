@@ -1,7 +1,7 @@
 ### ENG:
 # Vanguard bank
 
-Application is made for web page of bank, which provides bank clients with fast and convinient opportunity of using their acoounts and managing money in it, for example transactions between accounts and history of that transactions
+Application is made for web page of bank, which provides bank clients with fast and convinient opportunity of using their acoounts and managing money in it, for example transactions between accounts and history of that transactions.
 
 The project is available on the link: https://esotemp.vse.cz/~bigc00/sp
 
