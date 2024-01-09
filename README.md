@@ -17,7 +17,7 @@ The project is available on the [link]()
 
 ## Technologie
 
-### Architekture
+### Architecture
 - WebServer: Apache
 - BackEnd: PHP 8
 - Database: MySQL
