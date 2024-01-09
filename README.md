@@ -28,9 +28,9 @@ The project is available on the [link]()
 
 ## Database
 
-[Logickal model](https://prnt.sc/viTFMJxS1yP8)
+[Logical model](https://prnt.sc/viTFMJxS1yP8)
 
-[Physickal model](https://prnt.sc/4MBpe81PVgHF)
+[Physical model](https://prnt.sc/4MBpe81PVgHF)
 
 ## [Processual diagram](https://prnt.sc/T6hKgJqMifws)
 ## [Sequencial diagram](https://prnt.sc/kI_EvmEBphvq)
