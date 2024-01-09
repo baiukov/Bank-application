@@ -15,7 +15,7 @@ The project is available on the [link]()
 
 ## [Usecase Diagram](https://drive.google.com/file/d/1FOkuUf0Evnz_JOKbbyqEeEO3GVVSDAFS/view?pli=1)
 
-## Technologie
+## Technology
 
 ### Architecture
 - WebServer: Apache
